@@ -1,0 +1,109 @@
+doctype html
+html lang="en"
+  head
+    title anfora
+    
+    script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"
+    script src="javascripts/underscore.js"
+    script src="javascripts/gallery.js"
+    script src="javascripts/main.js"
+
+    meta content='text/html; charset=UTF-8' http-equiv='Content-Type'
+    meta content='width=device-width, initial-scale=1.0' name='viewport'
+    meta name="description" content="A new exciting space, which aims to bring together people for their love of wine and food."
+
+    link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'
+    link href="screen.css" media="screen" rel="stylesheet" type="text/css"
+   
+  body
+    .wrapper
+      .logo
+        h1 
+          span anfora
+          
+      p.opening
+        | A new exciting space, which aims to bring 
+        br
+        | together people for their love of wine and food.
+        br
+        | We welcome you back to the home of wine.
+        /| Anfora launches on Thursday the 19th of February.
+        /br
+        /| Doors open at 6pm. Come and join us for bubbles and bites.
+      
+    .gallery
+      ul
+        - for p in [ 'anfora_int_05', 'anfora_int_11', 'anfora_int_25', 'anfora_int_28', 'anfora_int_33', 'anfora_int_48', '1', '2', '4' ]
+          li 
+            .image style="background-image: url('/images/gallery/#{p}.jpg')"
+       
+      
+      nav
+        a.prev
+          span Previous
+        a.next
+          span Next
+    
+    .wrapper
+    
+    .menus
+      h4 See our winter menu
+      
+      div.menu_container
+        ul
+          li
+            a.wine href="/menus/wine_list.pdf" Wine list
+          li
+            a.menu href="/menus/food_menu.pdf" Food menu
+          li
+            a.fixe href="/menus/prix_fixe_menu.pdf" Prix fixe menu
+      a.special_menu href="/menus/mothers_day_menu.pdf"
+        | Mother's day menu
+      
+    .wrapper
+    
+      h3 Contact us
+      p.no_margin
+        | Located at the Vaults in Leith, in the oldest commercial building in Scotland used since time immemorial for the storage of wine.
+      
+    .contact
+      .map
+        img src="/images/map.png"
+      .address
+        | 87a Giles Street
+        br
+        | Edinburgh
+        br
+        | EH6 6BZ
+        br
+        br
+        strong Telephone: 
+        | 0131 553 6914
+        br
+        strong Email: 
+        a href="mailto:info@anforawinebar.co.uk" info@anforawinebar.co.uk
+        br
+        br
+        strong Opening times:
+        br
+        | Mon-Thu: 12:00 - 23:00
+        br
+        | Fri-Sat: 12:00 - 12:00
+        br
+        | Sun: 12:00 - 23:00
+        
+    footer
+      span.follow Find us: 
+      ul.social
+        li
+          a.facebook href="https://www.facebook.com/anforawinebarleith"
+            span anforawinebarleith
+        li
+          a.twitter href="https://twitter.com/anforawinebar"
+            span @anforawinebar
+        li
+          a.yelp href="http://www.yelp.co.uk/biz/anfora-wine-bar-edinburgh"
+            span yelp
+          
+
+      
