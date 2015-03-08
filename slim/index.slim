@@ -22,6 +22,9 @@ html lang="en"
           span anfora
           
       p.opening
+        strong Welcome to Anfora Wine Bar
+        br
+        br
         | A new exciting space, which aims to bring 
         br
         | together people for their love of wine and food.
@@ -33,7 +36,7 @@ html lang="en"
       
     .gallery
       ul
-        - for p in [ 'anfora_int_05', 'anfora_int_11', 'anfora_int_25', 'anfora_int_28', 'anfora_int_33', 'anfora_int_48', '1', '2', '4' ]
+        - for p in [ 'anfora_int_05', 'anfora_int_11', 'anfora_int_25', 'anfora_int_39', 'anfora_int_28', 'anfora_int_33', 'anfora_int_48', 'anfora_int_46', '1', '2', '4' ]
           li 
             .image style="background-image: url('/images/gallery/#{p}.jpg')"
        
@@ -45,8 +48,13 @@ html lang="en"
           span Next
     
     .wrapper
+      p.info
+        | At Anfora we offer a terrific selection of diverse & interesting wines from small, independent producers. We also offer a dining experience of small or big plates of rich, gutsy, imaginative food, without losing a sense of individual identity. 
+        br
+        | You can find us at the Vaults in Leith, a stone throw away from Leith Walk. In the oldest commercial building in Scotland used since time immemorial for the storage of wine.
     
     .menus
+    
       h4 See our winter menu
       
       div.menu_container
@@ -57,14 +65,17 @@ html lang="en"
             a.menu href="/menus/food_menu.pdf" Food menu
           li
             a.fixe href="/menus/prix_fixe_menu.pdf" Prix fixe menu
+            
       a.special_menu href="/menus/mothers_day_menu.pdf"
         | Mother's day menu
+      
       
     .wrapper
     
       h3 Contact us
       p.no_margin
-        | Located at the Vaults in Leith, in the oldest commercial building in Scotland used since time immemorial for the storage of wine.
+        
+        /| Located at the Vaults in Leith, in the oldest commercial building in Scotland used since time immemorial for the storage of wine.
       
     .contact
       .map
@@ -104,6 +115,7 @@ html lang="en"
         li
           a.yelp href="http://www.yelp.co.uk/biz/anfora-wine-bar-edinburgh"
             span yelp
+      div.copyright Photographs &copy; by Faz Aziz
           
 
       
