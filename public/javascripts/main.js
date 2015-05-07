@@ -42,12 +42,12 @@ document.addEventListener("DOMContentLoaded", function(event) {
   //createRotatingBg();
   //createGallery();
   
-  $(".gallery ul").createGallery($(".gallery nav"), true);
+  var $g = $(".gallery ul").createGallery($(".gallery nav"), true);
   
   var galleryInterval = null;
   
   var createInterval = function () {
-    galleryInterval = setInterval(function () { $(".gallery nav a.next").trigger("click"); }, 4000);
+    galleryInterval = setInterval(function () { $g.showNext(); }, 4000);
   }
   
   createInterval();
@@ -55,6 +55,20 @@ document.addEventListener("DOMContentLoaded", function(event) {
   $(".gallery nav a").on("mouseenter", function () { clearInterval(galleryInterval); });
   $(".gallery nav a").on("mouseleave", function () { createInterval(); });
                                     
-                                    
+  
+  $("a").each( function (i, e) {
+  
+    if (this.getAttribute("href")[0] === "#") {
+      var $el = $("#" + this.getAttribute("href").replace("#", ""));
+      
+      if ($el.length > 0) {
+        $(this).on("click", function (event) {
+        event.preventDefault();
+          $("html, body").animate({scrollTop : $el.offset().top }, { duration : 500 });
+        })
+      }
+    }
+    
+  });                           
   
 });
