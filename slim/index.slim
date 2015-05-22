@@ -27,11 +27,13 @@ html lang="en"
           span anfora
       
       nav#main_nav
-        - nav = [ ["home", "Home"], ["about-us", "About us"], ["private-dining", "Private dining"], ["menu", "Menu"], ["news-and-events", "News and events"], ["contact", "Contact"] ]
+        - nav = [ ["home", "Home"], ["about-us", "About us"], ["private-dining", "Private dining"], ["menu", "Menu"], ["news-and-events", "News & events"], ["contact", "Contact"] ]
         ul
           - for n in nav
             li
               a href="##{n[0]}" = n[1]
+          li.book
+            a href="http://www.opentable.co.uk/single.aspx?rid=109182&rtype=ism&restref=109182" Book a table
             
       / HOME ///////////////////////////////////////////////////////////////////  
       section#home
@@ -52,9 +54,8 @@ html lang="en"
 
         p You can find us at the Vaults in Leith, a stone throw away from Leith Walk.
         
-        .opentable
-          script type="text/javascript" src="https://www.opentable.co.uk/frontdoor/default.aspx?rid=109182&restref=109182&bgcolor=F6F6F3&titlecolor=0F0F0F&subtitlecolor=0F0F0F&btnbgimage=https://www.opentable.co.uk/frontdoor/img/ot_btn_red.png&otlink=FFFFFF&icon=dark&mode=short&hover=1"
-          a href="http://www.opentable.co.uk/single.aspx?rid=109182&rtype=ism&restref=109182" class="OT_ExtLink" Anfora Wine Bar (109182), Edinburgh/Midlothian Reservations
+        a.book_link href="http://www.opentable.co.uk/single.aspx?rid=109182&rtype=ism&restref=109182" Book a table at Anfora
+        
     
       / PRIVATE DINING ///////////////////////////////////////////////////////// 
       section#private-dining
@@ -69,7 +70,7 @@ html lang="en"
 
         
       / CHEF /////////////////////////////////////////////////////////////////// 
-      section#chef
+      /section#chef
         h2.right CHEF
         
         img.full_width src="images/chef_gallery/1.jpg"
@@ -101,48 +102,57 @@ html lang="en"
       section#contact
         h2 Contact us
         .contact_container
-          .address
-            | 87a Giles Street
-            br
-            | Edinburgh
-            br
-            | EH6 6BZ
-            br
-            br
-            strong Telephone: 
-            | 0131 553 6914
-            br
-            strong Email: 
-            a href="mailto:info@anforawinebar.co.uk" info@anforawinebar.co.uk
-            br
-            br
-            strong Opening times:
-            br
-            | Mon: 12:00 - 23:00
-            br
-            | Tue: Closed
-            br
-            | Wed-Thu: 12:00 - 23:00 
-            br
-            | Fri-Sat: 12:00 - 00:00
-            br
-            | Sun: 12:00 - 23:00
-            
-            ul.social
-              li
-                a.facebook href="https://www.facebook.com/anforawinebarleith"
-                  span anforawinebarleith
-              li
-                a.twitter href="https://twitter.com/anforawinebar"
-                  span @anforawinebar
-              li
-                a.yelp href="http://www.yelp.co.uk/biz/anfora-wine-bar-edinburgh"
-                  span yelp
-              li
-                a.tripadvisor href="http://www.tripadvisor.co.uk/Restaurant_Review-g186525-d7724855-Reviews-Anfora_Wine_Bar-Edinburgh_Scotland.html"
-                  span trip advisor
-          .map
-            img src="/images/map.png"
+          .left
+            .address
+              | 87a Giles Street
+              br
+              | Edinburgh
+              br
+              | EH6 6BZ
+              br
+              br
+              strong Telephone: 
+              | 0131 553 6914
+              br
+              strong Email: 
+              a href="mailto:info@anforawinebar.co.uk" info@anforawinebar.co.uk
+              br
+              br
+              strong Opening times:
+              br
+              | Mon: 12:00 - 23:00
+              br
+              | Tue: Closed
+              br
+              | Wed-Thu: 12:00 - 23:00 
+              br
+              | Fri-Sat: 12:00 - 00:00
+              br
+              | Sun: 12:00 - 23:00
+              
+              a.book_link href="http://www.opentable.co.uk/single.aspx?rid=109182&rtype=ism&restref=109182" Book a table at Anfora
+              
+              ul.social_links
+                li
+                  a.facebook href="https://www.facebook.com/anforawinebarleith"
+                    span anforawinebarleith
+                li
+                  a.twitter href="https://twitter.com/anforawinebar"
+                    span @anforawinebar
+                li
+                  a.yelp href="http://www.yelp.co.uk/biz/anfora-wine-bar-edinburgh"
+                    span yelp
+                li
+                  a.tripadvisor href="http://www.tripadvisor.co.uk/Restaurant_Review-g186525-d7724855-Reviews-Anfora_Wine_Bar-Edinburgh_Scotland.html"
+                    span trip advisor
+            .opentable
+              script type="text/javascript" src="https://www.opentable.co.uk/frontdoor/default.aspx?rid=109182&restref=109182&bgcolor=F6F6F3&titlecolor=0F0F0F&subtitlecolor=0F0F0F&btnbgimage=https://www.opentable.co.uk/frontdoor/img/ot_btn_red.png&otlink=FFFFFF&icon=dark&mode=short&hover=1"
+              a href="http://www.opentable.co.uk/single.aspx?rid=109182&rtype=ism&restref=109182" class="OT_ExtLink" Anfora Wine Bar (109182), Edinburgh/Midlothian Reservations
+          .right
+            .map
+              iframe frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=anfora%20wine%20bar%20edinburgh&key=AIzaSyBFJ4s4OKmulTB5ehuoFNUQxAx9B4UhDk0"
+              
+          
         
       footer#main_footer
         .footer_logo

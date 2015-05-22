@@ -20,7 +20,8 @@ $icons: (
   'arrow_left': "\ea40",
   'facebook': "\ea8c",
   'twitter': "\ea91",
-  'yelp' : "\ead9"
+  'yelp' : "\ead9",
+  'tripadvisor' : "\e600"
 );
 
 @each $name, $code in $icons {
