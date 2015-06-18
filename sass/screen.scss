@@ -234,6 +234,10 @@ img.full_width {
         @extend %icon_spoon; 
       }
       
+      .brasserie:before {
+        @extend %icon_spoon; 
+      }
+      
       .fixe:before {
         @extend %icon_star; 
       }
