@@ -212,7 +212,7 @@ img.full_width {
   ul {
     list-style-type: none; margin: 0; width: 100%; padding: 0; overflow: hidden;
     li {
-      width: 33.3%; float: left; margin: 0; padding: 0;
+      width: 50%; float: left; margin: 0 0 1em 0; padding: 0;
       a {
         display: block; margin: 0 1em; padding: 0.8em; text-transform: uppercase; text-decoration: none;
         color: $font_color; background: $transparent_silver; font-size: 1.1em;
@@ -262,7 +262,10 @@ img.full_width {
   }
   
   .event {
-    
+    margin-bottom: 4em;
+    &:last-child {
+      margin-bottom: 0em;
+    }
   }
 }
 
