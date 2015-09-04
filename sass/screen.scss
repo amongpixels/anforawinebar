@@ -263,6 +263,10 @@ img.full_width {
   
   img {
     width: 100%; display: block; max-width: 500px; margin: 0 auto 2em auto;
+    
+    &.no_max_width {
+      max-width: none;
+    }
   }
   
   .event {
@@ -303,7 +307,7 @@ img.full_width {
   }
   
   .book_link {
-    display: none;
+    display: none; margin-bottom: 0;
   }
   
   .address {
@@ -314,6 +318,10 @@ img.full_width {
     strong {
       display: inline-block; padding: 0 0.5em 0.1em 0;
     }
+  }
+  
+  .time {
+    margin: 0.5em 0;
   }
   
   a {
@@ -356,6 +364,12 @@ img.full_width {
         @extend %icon_tripadvisor;
       }
     }
+  }
+  
+  p {
+    padding: 2em 0;
+    font-size: 0.8em;
+    text-align: left;
   }
   
   @media (max-width: $medium_breakpoint) {
