@@ -19,7 +19,7 @@ html, body {
 
 body {
   background: $black; color: $font_color;
-  
+
   @media (max-width: $small_breakpoint) {
     font-size: 70%;
   }
@@ -28,22 +28,22 @@ body {
 // MAIN NAVIGATION /////////////////////////////////////////////////////////////
 nav#main_nav {
   border-top: $border; padding: 0.6em 0; width: 100%; font-size: 1.1em; font-weight: 600;
-  
+
   ul {
     display: flex; flex-direction: row; margin: 0; padding: 0; list-style-type: none;
-    
+
     li {
       flex-grow: 1;
-      
+
       a {
         display: block; padding: 0.5em; color: $font_color; text-decoration: none; text-transform: uppercase; text-align: center;
         transition: all ease 0.25s;
-        
+
         &:hover {
           background: $silver !important;
         }
       }
-      
+
       &.book {
         a {
           //background: $brown;
@@ -51,18 +51,18 @@ nav#main_nav {
       }
     }
   }
-  
+
   @media (max-width: $medium_breakpoint) {
     font-size: 1em;
   }
-  
+
   @media (max-width: $small_breakpoint) {
     ul {
       display: block; overflow: hidden;
-      
+
       li {
         width: 50%; float: left;
-        
+
         &.book {
           //width: 100%;
         }
@@ -76,7 +76,7 @@ nav#main_nav {
 h2 {
   font-weight: 600; font-size: 2em; margin: 0 0 0.5em; padding: 1em 0;
   color: $silver; border-top: $border; text-transform: uppercase;
-  
+
   &.right {
     text-align: right;
   }
@@ -85,11 +85,11 @@ h2 {
 p {
   color: $font-color; font-size: 1.3em; line-height: 1.4em; padding: 0 3em; width: 100%; margin: 0 0 1em 0;
   box-sizing: border-box;
-  
+
   &:last-child {
     margin-bottom: 0;
   }
-  
+
   @media (max-width: $medium_breakpoint) {
     padding: 0 1.5em;
   }
@@ -99,7 +99,7 @@ p {
 a.book_link {
   font-size: 1.3em; text-decoration: none; padding: 0.5em 1em; border: 2px solid $silver; color: $font_color; display: block;
   max-width: 16em; margin: 2em auto 2em auto; text-align: center; text-transform: uppercase;
-  
+
   &:hover {
     background: $silver
   }
@@ -108,7 +108,7 @@ a.book_link {
 // LOGO ////////////////////////////////////////////////////////////////////////
 .logo {
   max-width: 400px; margin: 3em auto 3em auto;
-  
+
   h1 {
     margin: 0; padding: 0; width: 100%; padding-top: percentage(310/990); //position: absolute; top: 0; left: 0; bottom: 0; right: 0;
     background: url("images/logo.svg");
@@ -117,7 +117,7 @@ a.book_link {
       display: none;
     }
   }
-  
+
   @media (max-width: $medium_breakpoint) {
     max-width: 250px;
   }
@@ -126,7 +126,7 @@ a.book_link {
 // WRAPPERS & SECTIONS /////////////////////////////////////////////////////////
 .wrapper {
   padding: 1em; max-width: $max_width; box-sizing: border-box; margin: 0 auto; position: relative;
-  
+
   &:after {
     content: ""; z-index: -1;
     width: 100%; padding-top: 141%; position: absolute; left: 0; bottom: 400px;
@@ -134,7 +134,7 @@ a.book_link {
     background-position: 50% 90%;
     background-size: 100% auto;
   }
-  
+
 }
 
 section {
@@ -148,21 +148,21 @@ img.full_width {
 
 .gallery {
   position: relative; width: 100%; padding-top: 68%; overflow: hidden;
-  
+
   ul {
     width: 100%; height: 100%; margin: 0; padding: 0; list-style-type: none;
   }
-  
+
   li {
     padding: 0; margin: 0; display: block; width: 100%; height: 100%;
     transition: all ease 1s;
   }
-  
+
   .image {
     position: absolute; top: 0; left: 0; width: 100%; height: 100%;
     background-size: cover;
   }
-  
+
   nav {
     a {
       $s : 42px;
@@ -170,27 +170,27 @@ img.full_width {
       width: $s; height: $s; top: 50%; transform: translateY(-50%); opacity: 0.5;
       border-radius: 50%;
       line-height: 42px; text-align: center; cursor: pointer;
-      
+
       span {
         display: none;
       }
-      
+
       &:before {
         color: white; font-size: 22px;
       }
-      
+
       &:hover {
         //background: rgba(0, 0, 0, 0.7);
         opacity: 0.7;
       }
-      
+
       &.prev {
         left: $s;
         &:before {
           @extend %icon_arrow_left;
         }
       }
-      
+
       &.next {
         right: $s;
         &:before {
@@ -204,11 +204,11 @@ img.full_width {
 // MENUS ///////////////////////////////////////////////////////////////////////
 .menu_container {
   width: 100%; box-sizing: border-box; padding: 1em; overflow: hidden;
-  
+
   .special_menu {
     color: white; text-align: center; display: block; margin: 1em 0 0em 0; font-size: 1.3em; font-weight: normal;
   }
-  
+
   ul {
     list-style-type: none; margin: 0; width: 100%; padding: 0; overflow: hidden;
     li {
@@ -216,39 +216,39 @@ img.full_width {
       a {
         display: block; margin: 0 1em; padding: 0.8em; text-transform: uppercase; text-decoration: none;
         color: $font_color; background: $transparent_silver; font-size: 1.1em;
-        
+
         &:before {
           margin-right: 1.0em;
         }
-        
+
         &:hover {
           background: $silver;
         }
       }
-      
+
       .wine:before {
-        @extend %icon_glass; 
+        @extend %icon_glass;
       }
-      
+
       .menu:before {
-        @extend %icon_spoon; 
+        @extend %icon_spoon;
       }
-      
+
       .brasserie:before {
-        @extend %icon_spoon; 
+        @extend %icon_spoon;
       }
-      
+
       .fixe:before {
-        @extend %icon_star; 
+        @extend %icon_star;
       }
     }
   }
-  
+
   @media (max-width: $small_breakpoint) {
     ul {
       li {
         width: 100%; float: none; margin-bottom: 1em;
-        
+
         &:last-child {
           margin-bottom: 0;
         }
@@ -260,20 +260,25 @@ img.full_width {
 // EVENTS //////////////////////////////////////////////////////////////////////
 .events_container {
   padding: 2em; background: $transparent_silver;
-  
+
   img {
     width: 100%; display: block; max-width: 500px; margin: 0 auto 2em auto;
-    
+
     &.no_max_width {
       max-width: none;
     }
   }
-  
+
   .event {
     margin-bottom: 4em;
     &:last-child {
       margin-bottom: 0em;
     }
+  }
+
+  .sidenote {
+    font-size: 75%; display: inline-block; margin-bottom: 1.5em; font-weight: 100; font-style: italic; line-height: 1.1em;
+    color: darken(white, 15%);
   }
 }
 
@@ -281,35 +286,35 @@ img.full_width {
 
 .contact_container {
   overflow: hidden; background: $transparent_silver; color: black; position: relative;
-  
+
   .left {
     width: 60%; position: relative;
   }
-  
+
   .right {
     position: absolute; right: 0; left: 60%; bottom: 0; top: 0;
   }
-  
+
   .map {
     width: 100%; height: 100%; clear: both; position: relative;
-    
+
     iframe {
       width: 100%; height: 100%;
     }
   }
-  
+
   .opentable {
     width: 40%; right: 0; transform: translateY(-50%); top: 50%; position: absolute;
-    
+
     > * {
       margin: 0 auto !important;
     }
   }
-  
+
   .book_link {
     display: none; margin-bottom: 0;
   }
-  
+
   .address {
     padding: 1em; box-sizing: border-box;
     line-height: 1.2em;
@@ -319,87 +324,87 @@ img.full_width {
       display: inline-block; padding: 0 0.5em 0.1em 0;
     }
   }
-  
+
   .time {
     margin: 0.5em 0;
   }
-  
+
   a {
     color: black;
   }
-  
+
   ul.social_links {
     $s: 32px;
     display: block; list-style-type: none; padding: 0; margin: 1em 0 0 0;
     li {
       display: inline-block; padding: 0; margin: 0;
-      
+
       a {
         text-decoration: none; display: inline-block; width: $s; height: $s; line-height: $s; vertical-align: middle;
         border-radius: 50%; margin-right: 0.4em; background: black; text-align: center;
         span {
           display: none;
         }
-        
+
         &:before {
-          color: white; 
+          color: white;
         }
-        
+
         color: white; font-size: 1.1em;
       }
-      
+
       .facebook:before {
         @extend %icon_facebook;
       }
-      
+
       .twitter:before {
         @extend %icon_twitter;
       }
-      
+
       .yelp:before {
         @extend %icon_yelp;
       }
-      
+
       .tripadvisor {
         @extend %icon_tripadvisor;
       }
     }
   }
-  
+
   p {
     padding: 2em 0;
     font-size: 0.8em;
     text-align: left;
   }
-  
+
   @media (max-width: $medium_breakpoint) {
-  
+
     .opentable {
       display: none;
     }
-    
+
     .book_link {
       display: block;
     }
-    
+
     .address {
       width: 100%;
     }
-    
+
     .left {
       width: 50%;
     }
-    
+
     .right {
       left: 50%;
     }
   }
-  
+
   @media (max-width: $small_breakpoint) {
     .left {
       float: none; width: 100%; position: relative;
-    } 
-    
+    }
+
     .right {
       position: static; width: 100%; height: 200px;
     }
@@ -414,10 +419,8 @@ footer#main_footer {
     background: url("images/bottom_logo.svg") no-repeat 50% 50%;
     background-size: auto 60%;
   }
-  
+
   .copyrights {
     padding: 1em; font-weight: 100; font-size: 0.9em; text-align: center;
   }
 }
-
-
