@@ -241,6 +241,10 @@ img.full_width {
       .fixe:before {
         @extend %icon_star; 
       }
+      
+      .christmas:before {
+        @extend %icon_star; 
+      }
     }
   }
   
