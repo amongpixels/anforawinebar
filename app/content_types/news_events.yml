@@ -1,0 +1,45 @@
+name: News & Events
+slug: news_events
+description: News articles and events
+label_field_name: title
+order_by: date
+order_direction: desc # default: asc, also available: desc
+
+fields:
+- title:
+    label: Title
+    type: string
+    required: true
+    localized: false
+
+- type:
+    label: Type
+    type: select
+    select_options: ["News", "Event"]
+
+- intro:
+    label: Intro
+    hint: Short intro, 1-2 sentences
+    type: text
+
+- text:
+    label: Text
+    hint: Main text
+    type: text
+    text_formatting: html
+
+- date:
+    label: Date
+    hint: Date of publication
+    type: date_time
+    required: true
+
+- event_date:
+    label: Event date
+    hint: If this is an event please provide its date and time
+    type: string
+    ui_enabled: false
+
+- image:
+    label: Image
+    type: file

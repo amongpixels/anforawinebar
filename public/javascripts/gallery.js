@@ -175,7 +175,11 @@ jQuery.fn.extend({
     
     $el.trigger("change", currentChild);
     
-    return $el;
+    //$el.showNext = showNext();
+    
+    return {
+      showNext : showNext
+    }
     
   }
   

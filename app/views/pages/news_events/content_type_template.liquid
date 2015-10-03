@@ -1,0 +1,22 @@
+---
+title: News and events
+published: true
+content_type: news_events
+---
+{% extends index %}
+
+{% block 'main' %}
+
+<section id="news-and-events">
+
+  <div class="single_event">
+    <div class="user_content">
+      <time datetime="{{ news.date | date: '%Y-%m-%d' }}" class="date">{{ news_event.date | date: '%B, %-d %Y' }}</time>
+      <h1 class="title"><span>{{ news_event.title }}</span></h1>
+      <img src="{{ news_event.image.url | resize: '800x>' }}">
+      {{ news_event.text }}
+    </div>
+  </div>
+</section>
+
+{% endblock %}

@@ -1,0 +1,71 @@
+.events_container {
+  margin-left: -2.5em; overflow: hidden;
+
+  .container {
+    box-sizing: border-box; width: 50%; padding-left: 2.5em; float: left;
+  }
+
+  .item {
+    background: $transparent_silver; display: block; text-decoration: none; transition: ease all 0.1s;
+    margin-bottom: 2.5em;
+
+    &:hover {
+      filter: brightness(115%);
+    }
+
+    .title {
+      font-size: 1.75em; text-transform: uppercase; color: white; line-height: 1em;
+      margin: 0 0 0.5em 0; padding: 0;
+    }
+
+    .info {
+      font-size: 0.8em; text-transform: uppercase; color: white; opacity: 0.5;
+    }
+
+    .image {
+      //margin-bottom: 1em;
+      img {
+        width: 100%; height: auto; display: block;
+      }
+    }
+
+    .content {
+      overflow: hidden; padding: 1.5em;
+    }
+
+    .intro {
+      font-size: 1em; margin: 0; padding: 0; color: white;
+    }
+  }
+
+  @media (max-width: $small_breakpoint) {
+    margin-left: 0;
+    .container {
+      width: 100%; padding-left: 0;
+    }
+  }
+}
+
+.single_event {
+  background: $transparent_silver; padding: 3em 2em; margin-top: 1em;
+
+  .date {
+    font-size: 1em; text-transform: uppercase; color: black; opacity: 0.5; position: relative; top: 0.15em;
+  }
+
+  .user_content {
+    max-width: 40em; margin: 0 auto;
+
+    h1, h2, h3, h4, p, li {
+      color: black;
+    }
+
+    img {
+      width: 100%; display: block; margin-bottom: 1.75em;
+    }
+  }
+
+  @media (max-width: $small_breakpoint) {
+    padding: 1.5em 1em;
+  }
+}
