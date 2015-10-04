@@ -1,0 +1,19 @@
+- "Wine list":
+    icon: "Wine glass"
+    file: "/samples/menus/wine_list.pdf"
+
+- "Food menu":
+    icon: "Cutlery"
+    file: "/samples/menus/food_menu.pdf"
+
+- "Prix Fixe Lunch Menu":
+    icon: "Star"
+    file: "/samples/menus/prix_fixe_lunch_menu.pdf"
+
+- "Weekend Brasserie Menu":
+    icon: "Cutlery"
+    file: "/samples/menus/weekend_brasserie_menu.pdf"
+
+- "Christmas Dinner Menu":
+    icon: "Star"
+    file: "/samples/menus/christmas_dinner_menu.pdf"

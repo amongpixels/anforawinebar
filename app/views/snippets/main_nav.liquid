@@ -1,11 +1,12 @@
+{% if page.slug == "index" %}{% assign prefix = "" %}{% else %}{% assign prefix = "/" %}{% endif %}
 <nav id="main_nav">
     <ul>
-        <li><a href="/#home">Home</a></li>
-        <li><a href="/#about-us">About us</a></li>
-        <li><a href="/#private-dining">Private dining</a></li>
-        <li><a href="/#menu">Menu</a></li>
-        <li{% if page.parent.slug == "news-events" %} class="active"{% endif %}><a href="/#news-and-events">News &amp; events</a></li>
-        <li><a href="/#contact">Contact</a></li>
+        <li><a href="{{ prefix }}#home">Home</a></li>
+        <li><a href="{{ prefix }}#about-us">About us</a></li>
+        <li><a href="{{ prefix }}#private-dining">Private dining</a></li>
+        <li><a href="{{ prefix }}#menu">Menu</a></li>
+        <li{% if page.parent.slug == "news-events" %} class="active"{% endif %}><a href="{{ prefix }}#news-and-events">News &amp; events</a></li>
+        <li><a href="{{ prefix }}#contact">Contact</a></li>
         <li class="book"><a href="http://www.opentable.co.uk/single.aspx?rid=109182&amp;rtype=ism&amp;restref=109182">Book a table</a></li>
     </ul>
 </nav>

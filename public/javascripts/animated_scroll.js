@@ -4,10 +4,11 @@ function createAnimatedScroll() {
   var links = document.getElementsByTagName('a');
   var href;
   for(var i=0; i<links.length; i++)
-  {   
+  {
       href = (links[i].attributes.href === undefined) ? null : links[i].attributes.href.nodeValue.toString();
       if(href !== null && href.length > 1 && href.substr(0, 1) == '#')
       {
+
           links[i].onclick = function()
           {
               var element;
@@ -50,5 +51,5 @@ function createAnimatedScroll() {
   {
       return document.documentElement.scrollTop + document.body.scrollTop;
   };
-  
+
 }

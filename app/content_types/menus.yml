@@ -1,0 +1,20 @@
+name: Menus
+slug: menus
+label_field_name: name
+order_by: manually
+
+fields:
+- name:
+    label: Title
+    type: string
+    required: true
+    localized: false
+
+- icon:
+    label: Icon
+    type: select
+    select_options: ["Wine glass", "Cutlery", "Star"]
+
+- file:
+    label: Menu PDF
+    type: file

@@ -2131,3 +2131,920 @@ Found page "News and events" [news-events/*]
 [0;32;49mCompleted 200 OK in 4.1ms
 
 [0m
+[0;97;49mStarted GET "/news-events/this-is-a-test-event" at 2015-10-03 23:30:04 +0100[0m
+Detecting locale EN
+Found page "News and events" [news-events/*]
+  Rendered snippet main_nav
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 00:16:25 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.2ms
+
+[0m
+[0;97;49mStarted GET "/news-events/this-is-a-test-news-1" at 2015-10-04 00:16:27 +0100[0m
+Detecting locale EN
+Found page "News and events" [news-events/*]
+  Rendered snippet main_nav
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 32.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 00:16:33 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.6ms
+
+[0m
+[0;97;49mStarted GET "/news-events/this-is-a-test-event" at 2015-10-04 00:16:46 +0100[0m
+Detecting locale EN
+Found page "News and events" [news-events/*]
+  Rendered snippet main_nav
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.7ms
+
+[0m
+[0;97;49mStarted GET "/news-events/this-is-a-test-news" at 2015-10-04 11:15:50 +0100[0m
+Detecting locale EN
+Found page "News and events" [news-events/*]
+  Rendered snippet main_nav
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 11:35:17 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 11:35:28 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 11:35:45 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 11:35:59 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 11:36:31 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 11:36:59 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 37.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 11:38:35 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 11:38:44 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 11:39:33 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 11:39:57 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.1ms
+
+[0m
+* Reloaded "content_types", "content_entries" at 2015-10-04 11:41:53 +0100
+* Reloaded "content_types", "content_entries" at 2015-10-04 11:41:58 +0100
+* Reloaded "content_types", "content_entries" at 2015-10-04 11:42:14 +0100
+* Reloaded "content_types", "content_entries" at 2015-10-04 11:42:17 +0100
+* Reloaded "content_types", "content_entries" at 2015-10-04 11:59:30 +0100
+* Reloaded "content_entries" at 2015-10-04 11:59:51 +0100
+unknow content type "news_events0"
+unknow content type "news_events0"
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter.rb:99:in `with_locale'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-10-04 11:59:55 +0100
+["/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_entry.rb:203:in `method_missing'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:80:in `block (2 levels) in build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `tap'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter.rb:99:in `with_locale'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/listen.rb:41:in `block in apply'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'"]
+The 'menus' content type does not have a field named 'type'.
+The 'menus' content type does not have a field named 'type'.
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:86:in `rescue in block (2 levels) in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:74:in `block (2 levels) in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter.rb:99:in `with_locale'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-10-04 12:01:46 +0100
+* Reloaded "content_entries" at 2015-10-04 12:02:07 +0100
+* Reloaded "content_entries" at 2015-10-04 12:02:15 +0100
+* Reloaded "content_entries" at 2015-10-04 12:02:16 +0100
+* Reloaded "content_entries" at 2015-10-04 12:02:24 +0100
+* Reloaded "content_entries" at 2015-10-04 12:02:52 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 12:04:56 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 12:04:59 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 12:05:18 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 12:05:21 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 12:05:23 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 12:06:00 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.7ms
+
+[0m
+[0;97;49mStarted GET "/menus/wine_list.pdf" at 2015-10-04 12:06:06 +0100[0m
+Detecting locale EN
+  Rendered snippet main_nav
+  Rendered snippet contact
+[0;32;49mCompleted 404 Not Found in 1.7ms
+
+[0m
+[0;97;49mStarted GET "/menus/wine_list.pdf" at 2015-10-04 12:06:12 +0100[0m
+Detecting locale EN
+  Rendered snippet main_nav
+  Rendered snippet contact
+[0;32;49mCompleted 404 Not Found in 1.6ms
+
+[0m
+* Reloaded "content_entries" at 2015-10-04 12:06:38 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 12:06:47 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 12:07:26 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 12:07:38 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 12:07:48 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 12:07:53 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 12:07:58 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 12:07:58 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 12:08:21 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.0ms
+
+[0m
+[0;97;49mStarted GET "/news-events/this-is-a-test-event" at 2015-10-04 12:08:40 +0100[0m
+Detecting locale EN
+Found page "News and events" [news-events/*]
+  Rendered snippet main_nav
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 12:32:55 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 12:33:19 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 22.6ms
+
+[0m
+[0;97;49mStarted GET "/news-events/this-is-a-test-news" at 2015-10-04 12:33:32 +0100[0m
+Detecting locale EN
+Found page "News and events" [news-events/*]
+  Rendered snippet main_nav
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 12:38:32 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 12:39:31 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 12:39:35 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 12:39:44 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.6ms
+
+[0m
+[0;97;49mStarted GET "/news-events/this-is-a-test-news" at 2015-10-04 12:40:49 +0100[0m
+Detecting locale EN
+Found page "News and events" [news-events/*]
+  Rendered snippet main_nav
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.9ms
+
+[0m
+[0;97;49mStarted GET "/news-events/this-is-a-test-news-1" at 2015-10-04 12:40:53 +0100[0m
+Detecting locale EN
+Found page "News and events" [news-events/*]
+  Rendered snippet main_nav
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.1ms
+
+[0m
+[0;97;49mStarted GET "/news-events/this-is-a-test-event" at 2015-10-04 12:40:56 +0100[0m
+Detecting locale EN
+Found page "News and events" [news-events/*]
+  Rendered snippet main_nav
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.9ms
+
+[0m
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-10-04 13:50:34 +0100
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2015-10-04 13:50:38 +0100
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+{"date"=>["can't be blank"], "formatted_date"=>["can't be blank"]}
+{"date"=>["can't be blank"], "formatted_date"=>["can't be blank"]}
+* Reloaded "pages", "snippets" at 2015-10-04 14:16:41 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 14:16:46 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 14:16:55 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 14:17:16 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 14:17:24 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m
+[0;97;49mStarted GET "/news-events/this-is-a-test-event" at 2015-10-04 14:17:51 +0100[0m
+Detecting locale EN
+Found page "News and events" [news-events/*]
+  Rendered snippet main_nav
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 14:17:53 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 14:17:58 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 14:19:23 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 14:19:23 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 14:19:27 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 14:20:09 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 14:20:11 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.0ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 14:23:04 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 32.1ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 14:35:34 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 14:35:38 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 14:35:39 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 14:35:43 +0100
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 17:12:08 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 17:12:12 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 17:12:31 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 17:22:57 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 17:23:02 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 17:27:36 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 17:27:44 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 79.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 17:27:53 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 17:27:55 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+[0;31;49m[ERROR] 'if' tag was never closed - ./app/views/pages/index.liquid:32:in `Home page'
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 17:28:38 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 17:28:51 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+[0;31;49m[ERROR] 'if' tag was never closed - ./app/views/pages/index.liquid:32:in `Home page'
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 17:29:57 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 17:29:58 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 17:30:08 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 17:30:12 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+[0;31;49m[ERROR] Tag '{%' was not properly terminated with regexp: /\%\}/ - ./app/views/pages/index.liquid:32:in `Home page'
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 17:30:29 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 17:30:31 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:30:42 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 17:31:30 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 17:31:33 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:32:22 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:32:30 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 17:33:14 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 17:34:36 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 17:35:37 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 17:35:41 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 17:35:44 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:38:15 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:38:28 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 17:44:54 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 17:48:30 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 17:50:31 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 17:51:11 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 17:51:16 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 17:54:01 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:54:47 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:55:05 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:55:07 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:55:17 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:55:26 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:55:40 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:56:01 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:56:10 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:56:44 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:57:21 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:57:22 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:57:32 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:57:33 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:57:45 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 17:58:11 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 17:58:24 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 17:58:39 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 17:58:39 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 17:58:39 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:58:57 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:59:03 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:59:23 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 17:59:36 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 18:04:18 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 18:04:27 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m

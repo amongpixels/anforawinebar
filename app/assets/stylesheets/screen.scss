@@ -117,19 +117,20 @@ h2.section_header {
   }
 }
 
-/*
-p {
-  color: $font-color; font-size: 1.3em; line-height: 1.4em; padding: 0 3em; width: 100%; margin: 0 0 1em 0;
-  box-sizing: border-box;
+.section_content {
+  p {
+    color: $font-color; font-size: 1.3em; line-height: 1.4em; padding: 0 3em; width: 100%; margin: 0 0 1em 0;
+    box-sizing: border-box;
 
-  &:last-child {
-    margin-bottom: 0;
-  }
+    &:last-child {
+      margin-bottom: 0;
+    }
 
-  @media (max-width: $medium_breakpoint) {
-    padding: 0 1.5em;
+    @media (max-width: $medium_breakpoint) {
+      padding: 0 1.5em;
+    }
   }
-}*/
+}
 
 // Booking link
 a.book_link {
@@ -166,7 +167,7 @@ a.book_link {
   &:after {
     content: ""; z-index: -1;
     width: 100%; padding-top: 141%; position: absolute; left: 0; bottom: 400px;
-    background: url("images/bg_mark2.svg") no-repeat;
+    background: url("/images/bg_mark2.svg") no-repeat;
     background-position: 50% 90%;
     background-size: 100% auto;
   }
@@ -239,19 +240,20 @@ img.full_width {
 
 // MENUS ///////////////////////////////////////////////////////////////////////
 .menu_container {
-  width: 100%; box-sizing: border-box; padding: 1em; overflow: hidden;
+  width: 100%; box-sizing: border-box; overflow: hidden;
 
   .special_menu {
     color: white; text-align: center; display: block; margin: 1em 0 0em 0; font-size: 1.3em; font-weight: normal;
   }
 
   ul {
-    list-style-type: none; margin: 0; width: 100%; padding: 0; overflow: hidden;
+    list-style-type: none; margin: 0; display: block; padding: 0; overflow: hidden; margin-left: -2.5em;
     li {
-      width: 50%; float: left; margin: 0 0 1em 0; padding: 0;
+      width: 50%; float: left; margin: 0 0 1em 0; padding: 0 0 0 2.5em; box-sizing: border-box;
       a {
-        display: block; margin: 0 1em; padding: 0.8em; text-transform: uppercase; text-decoration: none;
+        display: block; padding: 0.8em; text-transform: uppercase; text-decoration: none;
         color: $font_color; background: $transparent_silver; font-size: 1.1em;
+        transition: ease all 0.1s;
 
         &:before {
           margin-right: 1.0em;
@@ -262,23 +264,15 @@ img.full_width {
         }
       }
 
-      .wine:before {
+      .wine_glass:before {
         @extend %icon_glass;
       }
 
-      .menu:before {
+      .cutlery:before {
         @extend %icon_spoon;
       }
 
-      .brasserie:before {
-        @extend %icon_spoon;
-      }
-
-      .fixe:before {
-        @extend %icon_star;
-      }
-
-      .christmas:before {
+      .star:before {
         @extend %icon_star;
       }
     }
@@ -301,11 +295,11 @@ img.full_width {
   overflow: hidden; background: $transparent_silver; color: black; position: relative;
 
   .left {
-    width: 60%; position: relative;
+    width: 50%; position: relative;
   }
 
   .right {
-    position: absolute; right: 0; left: 60%; bottom: 0; top: 0;
+    position: absolute; right: 0; left: 50%; bottom: 0; top: 0;
   }
 
   .map {
@@ -316,6 +310,7 @@ img.full_width {
     }
   }
 
+  /*
   .opentable {
     width: 40%; right: 0; transform: translateY(-50%); top: 50%; position: absolute;
 
@@ -323,27 +318,48 @@ img.full_width {
       margin: 0 auto !important;
     }
   }
+  */
 
   .book_link {
-    display: none; margin-bottom: 0;
+    margin: 1.2em 0; max-width: none;
   }
 
-  .address {
-    padding: 1em; box-sizing: border-box;
+  h4 {
+    margin: 0; padding: 0; text-transform: uppercase; font-size: 1.05em; margin-bottom: 0.1em;
+  }
+
+  .container {
+    padding: 1.8em; box-sizing: border-box;
     line-height: 1.2em;
-    font-size: 1.05em;
-    width: 60%;
+    font-size: 0.95em;
     strong {
       display: inline-block; padding: 0 0.5em 0.1em 0;
     }
   }
 
-  .time {
-    margin: 0.5em 0;
+  .address, .contact, .opening_times {
+    margin-bottom: 1.3em;
   }
 
+  .opening_times {
+    .time {
+      margin: 0 0 0.2em 0;
+    }
+
+    span {
+      display: inline-block;
+    }
+
+    span.day {
+      width: 10em;
+    }
+  }
   a {
     color: black;
+
+    &:hover {
+      color: white;
+    }
   }
 
   ul.social_links {
@@ -359,8 +375,15 @@ img.full_width {
           display: none;
         }
 
-        &:before {
+        &::before {
           color: white;
+        }
+
+        &:hover {
+          color: black; background: white;
+          &::before {
+            color: black;
+          }
         }
 
         color: white; font-size: 1.1em;
