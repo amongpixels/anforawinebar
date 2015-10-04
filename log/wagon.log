@@ -3048,3 +3048,47 @@ Found page "Home page" [index]
 [0;32;49mCompleted 200 OK in 8.1ms
 
 [0m
+[0;97;49mStarted GET "/" at 2015-10-04 18:18:23 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 18:18:37 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 18:18:53 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 18:19:14 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m

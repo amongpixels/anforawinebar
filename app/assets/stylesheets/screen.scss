@@ -437,12 +437,26 @@ img.full_width {
   }
 
   @media (max-width: $small_breakpoint) {
+    .container {
+      font-size: 1.1em;
+    }
+    
     .left {
       float: none; width: 100%; position: relative;
     }
 
+    .opening_times {
+      span.day {
+        width: auto; display: block;
+      }
+
+      .time {
+        margin-bottom: 0.5em;
+      }
+    }
+
     .right {
-      position: static; width: 100%; height: 200px;
+      position: static; width: 100%; height: 240px;
     }
   }
 }
