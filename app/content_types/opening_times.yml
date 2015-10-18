@@ -1,0 +1,15 @@
+name: Opening times
+slug: opening_times
+label_field_name: day
+order_by: manually
+
+fields:
+- day:
+    label: Day
+    type: string
+    required: true
+
+- time:
+    label: Time
+    type: string
+    required: true

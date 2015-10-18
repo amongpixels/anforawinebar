@@ -1,0 +1,16 @@
+name: Gallery images
+slug: gallery_images
+label_field_name: name
+order_by: manually
+
+fields:
+- name:
+    label: Title
+    type: string
+    required: true
+    localized: false
+
+- image:
+    label: Image
+    type: file
+    required: true

@@ -1,0 +1,23 @@
+- "Image 1":
+    image: "/samples/gallery/1.jpg"
+
+- "Image 2":
+    image: "/samples/gallery/2.jpg"
+
+- "Image 3":
+    image: "/samples/gallery/3.jpg"
+
+- "Image 4":
+    image: "/samples/gallery/6.jpg"
+
+- "Image 5":
+    image: "/samples/gallery/7.jpg"
+
+- "Image 6":
+    image: "/samples/gallery/8.jpg"
+
+- "Image 7":
+    image: "/samples/gallery/9.jpg"
+
+- "Image 8":
+    image: "/samples/gallery/12.jpg"

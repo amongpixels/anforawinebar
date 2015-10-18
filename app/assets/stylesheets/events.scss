@@ -11,6 +11,9 @@
 
     &:hover {
       filter: brightness(115%);
+      .continue {
+        opacity: 1.0;
+      }
     }
 
     .title {
@@ -30,11 +33,16 @@
     }
 
     .content {
-      overflow: hidden; padding: 1.5em;
+      overflow: hidden; padding: 1.5em; height: 11em;
     }
 
     .intro {
-      font-size: 1em; margin: 0; padding: 0; color: white;
+      font-size: 0.95em; margin: 0; padding: 0; color: white;
+    }
+
+    .continue {
+      font-size: 0.8em; display: inline-block; text-transform: uppercase; margin-top: 1em;
+      border-bottom: 1px solid white; opacity: 0.5; color: white;
     }
   }
 
@@ -42,6 +50,11 @@
     margin-left: 0;
     .container {
       width: 100%; padding-left: 0;
+    }
+    .item {
+      .content {
+        height: auto;
+      }
     }
   }
 }

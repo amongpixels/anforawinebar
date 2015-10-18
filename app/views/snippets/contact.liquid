@@ -20,27 +20,11 @@
 
             <h4>Opening times</h4>
             <div class="opening_times">
+              {% for t in contents.opening_times %}
               <div class="time">
-                <span class="day">Monday:</span> <span class="hours">12:00 - 15:00, 17:30 - 22:30</span>
+                <span class="day">{{ t.day }}:</span> <span class="hours">{{ t.time }}</span>
               </div>
-              <div class="time">
-                <span class="day">Tuesday:</span> <span class="hours">Closed</span>
-              </div>
-              <div class="time">
-                <span class="day">Wednesday:</span> <span class="hours">12:00 - 15:00, 17:30 - 22:30</span>
-              </div>
-              <div class="time">
-                <span class="day">Thursday:</span> <span class="hours">12:00 - 15:00, 17:30 - 22:30</span>
-              </div>
-              <div class="time">
-                <span class="day">Friday:</span> <span class="hours">12:00 - 15:00, 17:30 - 00:00</span>
-              </div>
-              <div class="time">
-                <span class="day">Saturday:</span> <span class="hours">12:00 - 00:00</span>
-              </div>
-              <div class="time">
-                <span class="day">Sunday:</span> <span class="hours">12:00 - 22:00</span>
-              </div>
+              {% endfor %}
             </div>
 
             <a class="book_link" href="http://www.opentable.co.uk/single.aspx?rid=109182&amp;rtype=ism&amp;restref=109182">Book a table at Anfora</a>

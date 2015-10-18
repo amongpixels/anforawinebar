@@ -119,7 +119,7 @@ h2.section_header {
 
 .section_content {
   p {
-    color: $font-color; font-size: 1.3em; line-height: 1.4em; padding: 0 3em; width: 100%; margin: 0 0 1em 0;
+    color: darken($font-color, 25%); font-size: 1.3em; line-height: 1.4em; padding: 0 3em; width: 100%; margin: 0 0 1em 0;
     box-sizing: border-box;
 
     &:last-child {
@@ -135,10 +135,20 @@ h2.section_header {
 // Booking link
 a.book_link {
   font-size: 1.3em; text-decoration: none; padding: 0.5em 1em; border: 2px solid $silver; color: $font_color; display: block;
-  max-width: 16em; margin: 2em auto 2em auto; text-align: center; text-transform: uppercase;
+  max-width: 16em; margin: 1.5em auto 1.5em auto; text-align: center; text-transform: uppercase;
 
   &:hover {
     background: $silver
+  }
+}
+
+.e_club_widget {
+  margin: 3em auto 0 auto; max-width: 40em;
+  h3 {
+    text-align: center; font-size: 1.3em; font-weight: 400; text-transform: uppercase;
+  }
+  em {
+    font-style: normal; text-transform: uppercase;
   }
 }
 
@@ -440,7 +450,7 @@ img.full_width {
     .container {
       font-size: 1.1em;
     }
-    
+
     .left {
       float: none; width: 100%; position: relative;
     }

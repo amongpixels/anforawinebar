@@ -3092,3 +3092,1063 @@ Found page "Home page" [index]
 [0;32;49mCompleted 200 OK in 8.1ms
 
 [0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 18:56:40 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 18:56:42 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 18:58:09 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 19:01:37 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 19:01:41 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 19:02:06 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 19:02:21 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 19:03:22 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:03:27 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:03:32 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:03:41 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 33.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:03:58 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:04:17 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:04:54 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:05:02 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:05:07 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 19:05:51 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 19:05:52 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 19:06:43 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 19:06:45 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 19:07:06 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 19:07:30 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 19:07:31 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 19:10:06 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 19:10:08 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 34.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 19:10:13 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 19:10:16 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:10:28 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:10:54 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:10:59 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:11:04 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:11:08 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 19:11:43 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 19:11:44 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 19:11:56 +0100
+* Reloaded "pages", "snippets" at 2015-10-04 19:12:02 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 19:12:04 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.9ms
+
+[0m
+[0;97;49mStarted GET "/news-events/this-is-a-test-news" at 2015-10-04 19:15:00 +0100[0m
+Detecting locale EN
+Found page "News and events" [news-events/*]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 182.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:17:04 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 34.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:17:10 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:17:11 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:17:13 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 19:22:14 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 19:22:17 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:23:32 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 19:24:02 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 19:24:05 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 36.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:24:30 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.4ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-10-04 19:26:05 +0100
+[0;97;49mStarted GET "/" at 2015-10-04 19:26:08 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:26:09 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 36.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:26:29 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:26:34 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.3ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-10-04 19:26:58 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.6ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "content_types", "content_entries" at 2015-10-10 20:03:39 +0100
+* Reloaded "content_types", "content_entries" at 2015-10-10 20:03:47 +0100
+* Reloaded "content_types", "content_entries" at 2015-10-10 20:04:20 +0100
+* Reloaded "content_entries" at 2015-10-10 20:05:06 +0100
+unknow content type "menus0"
+unknow content type "menus0"
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter.rb:99:in `with_locale'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-10-10 20:05:12 +0100
+["/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_entry.rb:203:in `method_missing'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:80:in `block (2 levels) in build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `tap'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter.rb:99:in `with_locale'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/listen.rb:41:in `block in apply'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'"]
+The 'opening_times' content type does not have a field named 'icon'.
+The 'opening_times' content type does not have a field named 'icon'.
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:86:in `rescue in block (2 levels) in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:74:in `block (2 levels) in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter.rb:99:in `with_locale'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-10-10 20:06:07 +0100
+["/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_entry.rb:203:in `method_missing'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:80:in `block (2 levels) in build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `tap'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter.rb:99:in `with_locale'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/listen.rb:41:in `block in apply'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'"]
+The 'opening_times' content type does not have a field named 'icon'.
+The 'opening_times' content type does not have a field named 'icon'.
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:86:in `rescue in block (2 levels) in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:74:in `block (2 levels) in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter.rb:99:in `with_locale'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "pages", "snippets" at 2015-10-10 20:07:00 +0100
+* Reloaded "pages", "snippets" at 2015-10-10 20:07:12 +0100
+* Reloaded "pages", "snippets" at 2015-10-10 20:07:18 +0100
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-10-10 20:07:21 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+[0;31;49m[ERROR] undefined method `each' for nil:NilClass - ./app/views/pages/index.liquid:5:in `Home page'
+[0m
+* Reloaded "content_types", "content_entries" at 2015-10-10 20:07:47 +0100
+unknow content type "opening_times"
+unknow content type "opening_times"
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter.rb:99:in `with_locale'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_types", "content_entries" at 2015-10-10 20:07:52 +0100
+["/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_entry.rb:203:in `method_missing'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:80:in `block (2 levels) in build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `tap'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter.rb:99:in `with_locale'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/listen.rb:41:in `block in apply'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'"]
+The 'opening_times' content type does not have a field named 'icon'.
+The 'opening_times' content type does not have a field named 'icon'.
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:86:in `rescue in block (2 levels) in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:74:in `block (2 levels) in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter.rb:99:in `with_locale'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-10-10 20:07:59 +0100
+["/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_entry.rb:203:in `method_missing'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:80:in `block (2 levels) in build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `tap'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter.rb:99:in `with_locale'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/listen.rb:41:in `block in apply'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'"]
+The 'opening_times' content type does not have a field named 'icon'.
+The 'opening_times' content type does not have a field named 'icon'.
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:86:in `rescue in block (2 levels) in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:74:in `block (2 levels) in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter.rb:99:in `with_locale'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-10-10 20:08:01 +0100
+[0;97;49mStarted GET "/" at 2015-10-10 20:08:03 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.0ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+* Reloaded "pages", "snippets" at 2015-10-10 20:17:06 +0100
+* Reloaded "pages", "snippets" at 2015-10-10 20:17:12 +0100
+* Reloaded "pages", "snippets" at 2015-10-10 20:17:15 +0100
+* Reloaded "pages", "snippets" at 2015-10-10 20:17:17 +0100
+[0;97;49mStarted GET "/" at 2015-10-10 20:17:19 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-10-18 12:09:11 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-18 12:11:49 +0100
+[0;97;49mStarted GET "/" at 2015-10-18 12:11:52 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-18 12:13:18 +0100
+* Reloaded "pages", "snippets" at 2015-10-18 12:13:21 +0100
+[0;97;49mStarted GET "/" at 2015-10-18 12:13:23 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 34.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-18 12:14:05 +0100
+* Reloaded "content_types", "content_entries" at 2015-10-18 12:14:28 +0100
+* Reloaded "content_types", "content_entries" at 2015-10-18 12:16:18 +0100
+* Reloaded "content_entries" at 2015-10-18 12:20:18 +0100
+* Reloaded "content_entries" at 2015-10-18 12:22:07 +0100
+["/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_entry.rb:203:in `method_missing'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:80:in `block (2 levels) in build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `tap'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter.rb:99:in `with_locale'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/listen.rb:41:in `block in apply'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'"]
+The 'gallery_images' content type does not have a field named 'icon'.
+The 'gallery_images' content type does not have a field named 'icon'.
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:86:in `rescue in block (2 levels) in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:74:in `block (2 levels) in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter.rb:99:in `with_locale'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "content_entries" at 2015-10-18 12:24:06 +0100
+["/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_entry.rb:203:in `method_missing'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:80:in `block (2 levels) in build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `tap'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter.rb:99:in `with_locale'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'", "/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/listen.rb:41:in `block in apply'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'", "/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'"]
+The 'gallery_images' content type does not have a field named 'icon'.
+The 'gallery_images' content type does not have a field named 'icon'.
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:86:in `rescue in block (2 levels) in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:74:in `block (2 levels) in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter.rb:99:in `with_locale'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/listen.rb:41:in `block in apply'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `call'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:282:in `_process_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:246:in `block in _wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `loop'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:229:in `_wait_for_changes'
+	/home/dragomir/.gem/ruby/gems/listen-2.7.12/lib/listen/listener.rb:318:in `block in _start_wait_thread'
+
+
+* Reloaded "pages", "snippets" at 2015-10-18 12:27:15 +0100
+* Reloaded "pages", "snippets" at 2015-10-18 12:27:25 +0100
+[0;97;49mStarted GET "/" at 2015-10-18 12:27:51 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+[0;31;49m[ERROR] undefined method `each' for nil:NilClass - ./app/views/pages/index.liquid:5:in `Home page'
+[0m
+["/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_entry.rb:203:in `method_missing'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:80:in `block (2 levels) in build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `tap'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:73:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:70:in `tap'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:29:in `run!'", "/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon.rb:262:in `require_mounter'", "/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon.rb:75:in `serve'", "/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/cli.rb:272:in `serve'", "/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'", "/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'", "/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'", "/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'", "/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/bin/wagon:12:in `<top (required)>'", "/home/dragomir/bin/wagon:23:in `load'", "/home/dragomir/bin/wagon:23:in `<main>'"]
+The 'gallery_images' content type does not have a field named 'icon'.
+The 'gallery_images' content type does not have a field named 'icon'.
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:86:in `rescue in block (2 levels) in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:74:in `block (2 levels) in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon.rb:75:in `serve'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/bin/wagon:12:in `<top (required)>'
+	/home/dragomir/bin/wagon:23:in `load'
+	/home/dragomir/bin/wagon:23:in `<main>'
+
+
+["/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_entry.rb:203:in `method_missing'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:80:in `block (2 levels) in build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `tap'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:73:in `each'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:70:in `tap'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'", "/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:29:in `run!'", "/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon.rb:262:in `require_mounter'", "/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon.rb:75:in `serve'", "/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/cli.rb:272:in `serve'", "/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'", "/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'", "/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'", "/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'", "/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/bin/wagon:12:in `<top (required)>'", "/home/dragomir/bin/wagon:23:in `load'", "/home/dragomir/bin/wagon:23:in `<main>'"]
+The 'gallery_images' content type does not have a field named 'file'.
+The 'gallery_images' content type does not have a field named 'file'.
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:86:in `rescue in block (2 levels) in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:74:in `block (2 levels) in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon.rb:75:in `serve'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/bin/wagon:12:in `<top (required)>'
+	/home/dragomir/bin/wagon:23:in `load'
+	/home/dragomir/bin/wagon:23:in `<main>'
+
+
+* Reloaded "pages", "snippets" at 2015-10-18 12:30:09 +0100
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-10-18 12:30:12 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 38.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-18 12:31:54 +0100
+[0;97;49mStarted GET "/" at 2015-10-18 12:32:05 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-10-18 12:32:19 +0100
+[0;97;49mStarted GET "/" at 2015-10-18 12:32:20 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.9ms
+
+[0m
+[0;97;49mStarted GET "/gallery/1.jpg" at 2015-10-18 12:32:20 +0100[0m
+Detecting locale EN
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet contact
+[0;32;49mCompleted 404 Not Found in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/gallery/2.jpg" at 2015-10-18 12:32:20 +0100[0m
+Detecting locale EN
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet contact
+[0;32;49mCompleted 404 Not Found in 3.0ms
+
+[0m
+[0;97;49mStarted GET "/gallery/3.jpg" at 2015-10-18 12:32:20 +0100[0m
+[0;97;49mStarted GET "/gallery/6.jpg" at 2015-10-18 12:32:20 +0100[0m
+Detecting locale EN
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet contact
+[0;32;49mCompleted 404 Not Found in 3.7ms
+
+[0m
+[0;97;49mStarted GET "/gallery/8.jpg" at 2015-10-18 12:32:20 +0100[0m
+Detecting locale EN
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet contact
+[0;32;49mCompleted 404 Not Found in 4.9ms
+
+[0m
+[0;97;49mStarted GET "/gallery/7.jpg" at 2015-10-18 12:32:20 +0100[0m
+Detecting locale EN
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet contact
+[0;32;49mCompleted 404 Not Found in 9.5ms
+
+[0m
+Detecting locale EN
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet contact
+[0;32;49mCompleted 404 Not Found in 13.3ms
+
+[0m
+[0;97;49mStarted GET "/gallery/12.jpg" at 2015-10-18 12:32:20 +0100[0m
+[0;97;49mStarted GET "/gallery/9.jpg" at 2015-10-18 12:32:20 +0100[0m
+Detecting locale EN
+Detecting locale EN
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet contact
+[0;32;49mCompleted 404 Not Found in 3.7ms
+
+[0m
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet contact
+[0;32;49mCompleted 404 Not Found in 4.8ms
+
+[0m
+[0;97;49mStarted GET "/menus/christmas_dinner_menu.pdf" at 2015-10-18 12:32:36 +0100[0m
+Detecting locale EN
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet contact
+[0;32;49mCompleted 404 Not Found in 2.2ms
+
+[0m
+* Reloaded "content_entries" at 2015-10-18 12:32:50 +0100
+[0;97;49mStarted GET "/" at 2015-10-18 12:32:52 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.9ms
+
+[0m
+[0;97;49mStarted GET "/gallery/2.jpg" at 2015-10-18 12:32:53 +0100[0m
+Detecting locale EN
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet contact
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/gallery/3.jpg" at 2015-10-18 12:32:53 +0100[0m
+Detecting locale EN
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet contact
+[0;32;49mCompleted 404 Not Found in 1.9ms
+
+[0m
+[0;97;49mStarted GET "/gallery/6.jpg" at 2015-10-18 12:32:53 +0100[0m
+Detecting locale EN
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet contact
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/gallery/7.jpg" at 2015-10-18 12:32:53 +0100[0m
+Detecting locale EN
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet contact
+[0;32;49mCompleted 404 Not Found in 1.8ms
+
+[0m
+[0;97;49mStarted GET "/gallery/8.jpg" at 2015-10-18 12:32:53 +0100[0m
+Detecting locale EN
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet contact
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/gallery/9.jpg" at 2015-10-18 12:32:53 +0100[0m
+Detecting locale EN
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet contact
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+[0;97;49mStarted GET "/gallery/12.jpg" at 2015-10-18 12:32:53 +0100[0m
+Detecting locale EN
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet contact
+[0;32;49mCompleted 404 Not Found in 2.1ms
+
+[0m
+* Reloaded "content_entries" at 2015-10-18 12:33:11 +0100
+* Reloaded "pages", "snippets" at 2015-10-18 12:33:18 +0100
+[0;97;49mStarted GET "/" at 2015-10-18 12:33:20 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.0ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
