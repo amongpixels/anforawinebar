@@ -4152,3 +4152,291 @@ Found page "Home page" [index]
 [0m
 [0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
 [0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 21:41:18 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 33.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 22:17:35 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 135.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 22:19:25 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 22:49:30 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 22:49:58 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 22:50:24 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 43.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 22:54:20 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 22:54:25 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 22:55:15 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 22:58:47 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 23:00:47 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 23:02:30 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 23:02:34 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 23:02:41 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 38.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 23:03:18 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 23:03:45 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 23:08:06 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 23:09:14 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 23:10:45 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 23:11:16 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 23:11:47 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2015-11-23 23:12:55 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.9ms
+
+[0m
