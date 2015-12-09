@@ -33,7 +33,7 @@ published: true
 
       {% block 'main' %}
 
-      {% include 'home_gallery' %}
+      {% include 'home_video' %}
 
       <section id="about-us">
         <h2 class="section_header">Welcome to Anfora Wine Bar & Restaurant</h2>
@@ -52,9 +52,15 @@ You can find us at the Vaults in Leith, a stone throw away from Leith Walk.{% en
         </div>
       </section>
 
+
+
       <section id="private-dining">
         <h2 class="section_header right">Private dining</h2>
-        <img class="full_width" src="{{ 'private_dining2.jpg' | theme_image_url }}">
+
+        {% include 'home_gallery' %}
+
+        <!--<img class="full_width" src="">-->
+        
         <div class="section_content">
           <p>To the left of the bar lies one of the most beautiful & historic
           dining rooms.</p>

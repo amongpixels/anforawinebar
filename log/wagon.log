@@ -4440,3 +4440,146 @@ Found page "Home page" [index]
 [0;32;49mCompleted 200 OK in 10.9ms
 
 [0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+uninitialized constant Class::TZInfo
+	/home/dragomir/.gem/ruby/gems/activesupport-3.2.22/lib/active_support/values/time_zone.rb:367:in `rescue in []'
+	/home/dragomir/.gem/ruby/gems/activesupport-3.2.22/lib/active_support/values/time_zone.rb:365:in `[]'
+	/home/dragomir/.gem/ruby/gems/activesupport-3.2.22/lib/active_support/values/time_zone.rb:338:in `new'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/site_reader.rb:18:in `block in read'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon.rb:75:in `serve'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/bin/wagon:12:in `<top (required)>'
+	/home/dragomir/bin/wagon:23:in `load'
+	/home/dragomir/bin/wagon:23:in `<main>'
+
+
+uninitialized constant Class::TZInfo
+	/home/dragomir/.gem/ruby/gems/activesupport-3.2.22/lib/active_support/values/time_zone.rb:367:in `rescue in []'
+	/home/dragomir/.gem/ruby/gems/activesupport-3.2.22/lib/active_support/values/time_zone.rb:365:in `[]'
+	/home/dragomir/.gem/ruby/gems/activesupport-3.2.22/lib/active_support/values/time_zone.rb:338:in `new'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/site_reader.rb:18:in `block in read'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon.rb:75:in `serve'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/bin/wagon:12:in `<top (required)>'
+	/home/dragomir/bin/wagon:23:in `load'
+	/home/dragomir/bin/wagon:23:in `<main>'
+
+
+uninitialized constant Class::TZInfo
+	/home/dragomir/.gem/ruby/gems/activesupport-3.2.22/lib/active_support/values/time_zone.rb:367:in `rescue in []'
+	/home/dragomir/.gem/ruby/gems/activesupport-3.2.22/lib/active_support/values/time_zone.rb:365:in `[]'
+	/home/dragomir/.gem/ruby/gems/activesupport-3.2.22/lib/active_support/values/time_zone.rb:338:in `new'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/site_reader.rb:18:in `block in read'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_mounter-1.5.7/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon.rb:262:in `require_mounter'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon.rb:75:in `serve'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/lib/locomotive/wagon/cli.rb:272:in `serve'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/home/dragomir/.gem/ruby/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/home/dragomir/.gem/ruby/gems/locomotivecms_wagon-1.5.8/bin/wagon:12:in `<top (required)>'
+	/home/dragomir/bin/wagon:23:in `load'
+	/home/dragomir/bin/wagon:23:in `<main>'
+
+
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
+[0;97;49mStarted GET "/" at 2015-12-09 23:31:11 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 39.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-12-09 23:36:01 +0000
+* Reloaded "pages", "snippets" at 2015-12-09 23:38:38 +0000
+* Reloaded "pages", "snippets" at 2015-12-09 23:38:52 +0000
+* Reloaded "pages", "snippets" at 2015-12-09 23:38:56 +0000
+[0;97;49mStarted GET "/" at 2015-12-09 23:38:58 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_video
+  Rendered snippet e_club_widget
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-12-09 23:40:12 +0000
+[0;97;49mStarted GET "/" at 2015-12-09 23:40:14 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_video
+  Rendered snippet e_club_widget
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2015-12-09 23:40:39 +0000
+* Reloaded "pages", "snippets" at 2015-12-09 23:40:40 +0000
+[0;97;49mStarted GET "/" at 2015-12-09 23:45:05 +0000[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet google_analytics
+  Rendered snippet main_nav
+  Rendered snippet home_video
+  Rendered snippet e_club_widget
+  Rendered snippet home_gallery
+  Rendered snippet e_club_widget
+  Rendered snippet contact
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.7ms
+
+[0m
+[0;31;49m[Important] YUICompressor requires java to be installed. The JAVA_HOME variable should also be set.
+[0m
